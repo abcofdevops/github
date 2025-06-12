@@ -46,7 +46,8 @@ git push -u origin main
 ```
 
 > Issue: ! [rejected] main -> main (fetch first)
->           error: failed to push some refs to
+> 
+> error: failed to push some refs to
 
 ### Pull and Rebase before Push
 ```bash
