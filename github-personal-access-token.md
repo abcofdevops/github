@@ -9,7 +9,7 @@ A GitHub Personal Access Token (PAT) is a secure way to authenticate and access 
 - Integrate third-party services with GitHub
 
 ## How to Create a PAT
-1. Go to GitHub Settings > Developer settings > Personal access tokens.
+1. Go to [GitHub Settings > Developer settings > Personal access tokens.](https://github.com/settings/personal-access-tokens)
 2. Click Generate new token.
 3. Set a descriptive name and expiration date.
 4. Select the desired scopes (permissions).
